@@ -1,4 +1,4 @@
-# Node-wise Fiedler Vector and Synchronization Dynamics
+# Nodal Fielder Contribution
 
 This repository contains the MATLAB source code for analyzing the relationship between the node-wise Fiedler vector (in directed, weighted networks) and the local synchronization speed of dynamical systems.
 

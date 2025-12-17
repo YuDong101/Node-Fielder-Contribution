@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB source code for analyzing the relationship between the node-wise Fiedler vector (in directed, weighted networks) and the local synchronization speed of dynamical systems.
 
-**Reference:** The Fiedler vector calculation implements the definition from *Jiang et al., Phys. Rev. E 109, 054301 (2024)*.
+**Reference:** Nodal Spectral Sensitivity and the Distribution of Dynamical Timescales in Directed Networks from *Yu et al., Phys. Rev. E Submission*.
 
 ---
 
